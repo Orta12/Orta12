@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascrpit
 - 👯 I’m looking to collaborate on ijjk
 - 🤔 I’m looking for help with ijjk
-- 💬 Ask me about Html css js 
+- 💬 Ask me about Html css javascrpit
 - 📫 How to reach me: darkkboy0012@gmail.com
 
 ### Thanks for visting 
